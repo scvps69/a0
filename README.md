@@ -29,11 +29,11 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 4. Selesai
 
 ## Jangan Lupa Traktir Kopi 
-https://trakteer.id/hendrawahyut/tip
+
 
 ## Jika terjadi error' harap hub kontak di bawah
-1. Telegram : https://t.me/HendraWahyuT
-2. Wa  : https://wa.me/+18484209900
+1. Telegram : 
+2. Wa  : 
 
 ## Mengubah perizinan root dan mengganti password root
 ```html
